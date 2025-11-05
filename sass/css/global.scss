@@ -7,7 +7,7 @@
 @import "../../themes/vonge/sass/css/components";
 
 /* Override CSS. */
+@import "1-tools/E_grid";
+@import "3-modules/header";
 @import "components/hero";
 @import "components/project-card";
-@import "3-modules/header";
-@import "1-tools/E_grid";
